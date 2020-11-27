@@ -1,0 +1,20 @@
+C:\Users\yessi\OneDrive\TRABAJOS SOFI ( )\PROGRAMACION ORIENTADA A OBJETOS\3TRIMESTRE.1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\yessi\OneDrive\TRABAJOS SOFI ( )\PROGRAMACION ORIENTADA A OBJETOS\3TRIMESTRE.1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\yessi\OneDrive\TRABAJOS SOFI ( )\PROGRAMACION ORIENTADA A OBJETOS\3TRIMESTRE.1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\yessi\OneDrive\TRABAJOS SOFI ( )\PROGRAMACION ORIENTADA A OBJETOS\3TRIMESTRE.1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Validaciones.csprojAssemblyReference.cache
+C:\Users\yessi\OneDrive\TRABAJOS SOFI ( )\PROGRAMACION ORIENTADA A OBJETOS\3TRIMESTRE.1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\yessi\OneDrive\TRABAJOS SOFI ( )\PROGRAMACION ORIENTADA A OBJETOS\3TRIMESTRE.1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\yessi\OneDrive\TRABAJOS SOFI ( )\PROGRAMACION ORIENTADA A OBJETOS\3TRIMESTRE.1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Validaciones.csproj.GenerateResource.cache
+C:\Users\yessi\OneDrive\TRABAJOS SOFI ( )\PROGRAMACION ORIENTADA A OBJETOS\3TRIMESTRE.1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Validaciones.csproj.CoreCompileInputs.cache
+C:\Users\yessi\OneDrive\TRABAJOS SOFI ( )\PROGRAMACION ORIENTADA A OBJETOS\3TRIMESTRE.1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\yessi\OneDrive\TRABAJOS SOFI ( )\PROGRAMACION ORIENTADA A OBJETOS\3TRIMESTRE.1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\PROGRAMACION\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\PROGRAMACION\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\PROGRAMACION\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\PROGRAMACION\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Validaciones.csprojAssemblyReference.cache
+D:\PROGRAMACION\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\PROGRAMACION\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\PROGRAMACION\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Validaciones.csproj.GenerateResource.cache
+D:\PROGRAMACION\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Validaciones.csproj.CoreCompileInputs.cache
+D:\PROGRAMACION\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\PROGRAMACION\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
